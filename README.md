@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Herald
-- 👀 I’m interested in Java, Cloud, IOT, and React
-- 🌱 I’m currently learning Docker and Kubernetes
+- 👀 Experieced Full Stack Engineer
+- Interested in Cloud, IOT, and Web 3.0
 - 📫 How to reach me heraldbalerite@yahoo.com
 
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Herald
-- 👀 Experieced Full Stack Engineer
-- Interested in Cloud, IOT, and Web 3.0
+- 👀 Experieced Full Stack Engineer mainly using Java and AWS stacks.
+- Interested in Automation, Robotics and IOT.
 - 📫 How to reach me heraldbalerite@yahoo.com
 
 

@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Herald
 - 🧑‍💻 Experieced Full Stack Developer
-- 🛠️ Mainly using Java, React, Angular, and Tailwind CSS stacks.
+- 🛠️ Tech Stack: 
+      Back End: Java, Spring-boot, Hibernate, Maven, and PHP
+      Front End: React, Angular, GraphQL, and Tailwind CSS.
+      CI/CD: Git, Docker, CodeCommit, CodeBuild, and CodeDeploy
+      Cloud: AWS, and Heroku
 - 💡 Interested in 💻 Automation, :robot: Robotics, and IOT.
 - 📫 How to reach me herald.balerite.ca@gmail.com, and on [Linkedin](https://www.linkedin.com/in/heraldbalerite/)
 

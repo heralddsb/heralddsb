@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Herald
-- 🧑‍💻 Experieced Full Stack Engineer mainly using Java and AWS stacks.
+- 🧑‍💻 Experieced Full Stack Developer
+- 🛠️ Mainly using AWS, Java, React, Angular, and Tailwind CSS stacks.
 - 💡 Interested in 💻 Automation, :robot: Robotics, and IOT.
 - 📫 How to reach me herald.balerite.ca@gmail.com
 

@@ -5,7 +5,7 @@
   - Front End: React, Angular, GraphQL, and Tailwind CSS.
   - CI/CD: Git, Docker, CodeCommit, CodeBuild, CodeDeploy and CloudFormation
   - Cloud: AWS, and Heroku
-- 💡 Interested in 💻 Automation, :robot: Robotics, and IoT.
+- 💡 Interested in Board Games, Cognitive Science, 💻 Automation, :robot: Robotics, and IoT.
 - 📫 How to reach me herald.balerite.ca@gmail.com, and on [Linkedin](https://www.linkedin.com/in/heraldbalerite/)
 
 

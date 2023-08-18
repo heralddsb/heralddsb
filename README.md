@@ -1,4 +1,4 @@
-👋 Hey, I'm Herald – part-time coder, full-time dreamer. Crafting bytes into experiences is my game. Join me in pixelated adventures! 🚀
+👋 Hey, I'm Herald – part-time coder, full-time dreamer. Crafting bytes into experiences is my game. 
 - 🛠️ Current Tech Stack: 
   - Back End: Java, Spring-boot, Hibernate, Maven, and PHP
   - Front End: React, Angular, GraphQL, and Tailwind CSS.
